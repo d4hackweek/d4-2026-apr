@@ -2,7 +2,7 @@
 
 We are excited to welcome you to the UW CSDE Accelerate Policy and Research for Greater Impact 2026 D4 Event.
 
-This 5-day collaborative workshop hosted at the University of Washington tackles challenges associated with integrating social and weather datasets across spatial and temporal scales, in order to investigate demographic disparities and decision-making related to severe weather events like flooding, hurricanes, and wildfire.
+On March 10, 2026 the UW’s Center for Studies in Demography and Ecology (CSDE) selected 9 proposals among 30 applications from local and state government agencies, or non-profit organizations serving the public.  The 30 applications represented a wide array of practical research ideas that could be pursued in collaboration with UW faculty and staff.  The 9 projects selected include ones proposed from four state-wide agencies, three non-profits, and two local agencies.  The research topics are varied and will include partnerships with over twenty-one UW researchers.  The goal of this effort is to offer academic researcher expertise and time to projects that will contribute to policy or practice that serves the public.
 
 This JupyterBook contains the information you need as a participant in the D4 Hack Week.
 
