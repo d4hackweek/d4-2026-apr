@@ -1,6 +1,6 @@
 # Welcome to {{hackweek}}!
 
-We are excited to welcome you to the Disasters, Demography, Disparities and Decisions (D4) Hack Week.
+We are excited to welcome you to the UW CSDE Accelerate Policy and Research for Greater Impact 2026 D4 Event.
 
 This 5-day collaborative workshop hosted at the University of Washington tackles challenges associated with integrating social and weather datasets across spatial and temporal scales, in order to investigate demographic disparities and decision-making related to severe weather events like flooding, hurricanes, and wildfire.
 
