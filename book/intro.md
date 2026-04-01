@@ -1,4 +1,4 @@
-# Welcome to {{hackweek}}!
+# Welcome to Accelerate Policy and Research for Greater Impact!
 
 We are excited to welcome you to the UW CSDE Accelerate Policy and Research for Greater Impact 2026 D4 Event.
 
