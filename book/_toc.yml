@@ -7,8 +7,7 @@ parts:
   chapters:
     - file: logistics
     - file: schedule
-    - title: Organizing Team
-      url: https://d4hackweek.github.io/d4book/index.html?jump_to=team
+    - file: orgteam
     - file: CoC
     - title: Press Release
       url: https://csde.washington.edu/news-events/2024-d4-hack-week-disasters-demography-disparities-and-decisions-presentations/
