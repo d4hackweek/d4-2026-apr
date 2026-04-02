@@ -1,6 +1,6 @@
 # Overview
 
-During this hackweek we invite participants to collaborate in small group project teams (usually 5-7 people). Projects provide unique opportunities for networking, advancing research and learning new things.
+During these two events, we invite local and state government agencies or non-profit organizations serving the pubic to collaborate in small group project teams with University of Washington academics (usually 5-7 people). Projects provide unique opportunities for networking, advancing research, and learning new things.
 
 ## List of Projects
 
@@ -8,12 +8,12 @@ Here is our current list of project for our {{dates}} {{ hackweek }}:
 
 | Team Name                                    | Project Leads                                                                                     |
 | :------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| [Claim to Flame ](01)                          | Joan Casey, Lauren Wilner, Vivian Do, Heather McBrien, David Coomes, and Karen Chen               |
-| [DEMUS (Demography of Environmental Migration in the United States)](02) | Elizabeth Fussell, Jack DeWaard, Katherine Curtis, James Done, Katie McConnell and Sara Ronnkvist |
-| [Columbia Hurricane Migration](03)                               | Fabien Cottier, Mona Hemmati, Andrew Kruczkiewicz, and Kytt MacManus                              |
-| [Disaster Demography](04)                 | Deborah Balk, Dylan Connor, Melanie Gall, Lori Hunter, Jenna Tipaldo, and Helen Wilson Burns      |
-| [The Floodsters](05)                        | ChangHoon (Chang) Hahn, Sharif Islam, and Lidia Cano     
-| [Demografires](06)                       | Mathew Hauer, Alexis Santos, and Sunshine Jacobs | 
-| [Migration Mavericks](07)    | Ethan Sharygin, Justin Stoler, and Mary Angelica Painter                                          |
-| [Floaters](08)                               | Jason Stock, Tyler Fricker, and Patrick Greiner                                                   |
-| [CAT Demonstration Project](09)             |  Andrea Schumacher, Julie Demuth, DJ Gagne, Jorge Celis, Amy McGovern, Sara Curran, Sameer Shah, Masha Vernik, Ann Bostrom |
+| [Washington State Center for Court Research, Administrative Office of the Courts and UW](01)                          | Patrizia Chirco, Karl Jones, Frank Thomas, Karin Martin, and Danieli Evans |
+| [Walk About Yakima, Community Peace Center of Central Washington and UW](02) | Sam Decker, Alfredo Orozco, Carolyn Thruston, and Ali Rowhani-Rahbar |
+| [Build 2 Lead and UW](03)                               |Jimmy Brown, Dairyona Thompson, Najmah Messiah, Kristian Jones, and LaTonya Trotter|
+| [Leave and Care Programs, Washington Employment Security Department and UW](04)                 | Rebecca Grady, Selin Karabulut, Katherine Geist, Stipica Mudrazija, Melissa Knox, Tracy Mroz, and Jing Li|
+| [Program Evaluation, Research, and Assessment, Washington Employment Security Department and UW](05)                        | Olga Kondratjeva, Morgen Johansen, Ying Liu, Michael Schultz, Rachel Erstad, and Sofia Ayala |     
+| [Washinton Attorney General's Office](06)                       | Lauren Vlas, Avanti Adhia, Alice Ellyson, and Jessica Godwin | 
+| [Sound Transit and UW](07)    | Juliana Borges, Daniel Thiel, Rebeca DeBuen, Cynthia Chen, and Kyle Crowder |
+| [Seattle City Light and UW](08)                               | Traea Vaillancourt, Alex Porteshawver, Tarney Sheldpn, Patrick Greiner, June Lukuyu |
+| [Community Center for Education Results](09)             | Kristin McCowan, Kevin Liao, Jordan Nishimura, Dan Goldhaber, and David Knight|
