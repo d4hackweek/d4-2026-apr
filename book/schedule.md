@@ -1,7 +1,5 @@
 # Schedule for 
 
-[Friday, April 24th](#friday-april-24th)
-[Friday, May 22nd](#friday-may-22nd)
 
 ## Friday April 24th
 Location: The Olympia Ballroom, Olympia, Washington
