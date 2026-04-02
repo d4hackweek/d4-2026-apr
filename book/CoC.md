@@ -34,7 +34,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## **Enforcement**
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the workshop organizers responsible for enforcement at [d4hackweek\@uw.edu](mailto:d4hackweek@uw.edu){.email}. All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the workshop organizers responsible for enforcement at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu). All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ## **Attribution**
 
