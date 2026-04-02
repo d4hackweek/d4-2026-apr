@@ -11,7 +11,7 @@ parse:
   # https://jupyterbook.org/content/content-blocks.html#using-substitutions-in-links
   myst_substitutions:
     hackweek: "d42026apr"
-    dates: "April 24, 2026 \& May 22, 2026"
+    dates: "April 24, 2026 and May 22, 2026"
     github_org_url: "https://github.com/d4hackweek"
     book_repo: "d4-2026-apr"
     website_url: "https://d4hackweek.github.io"
