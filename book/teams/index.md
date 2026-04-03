@@ -4,7 +4,7 @@ During these two events, we invite local and state government agencies or non-pr
 
 ## List of Projects
 
-Here is our current list of project for our {{dates}} {{ hackweek }}:
+Here is our current list of projects for our {{dates}} {{ hackweek }}:
 
 | Team Name                                    | Project Leads                                                                                     |
 | :------------------------------------------- | :------------------------------------------------------------------------------------------------ |
