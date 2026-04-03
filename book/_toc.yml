@@ -9,8 +9,6 @@ parts:
     - file: schedule
     - file: orgteam
     - file: CoC
-    - title: Press Release
-      url: https://csde.washington.edu/news-events/2024-d4-hack-week-disasters-demography-disparities-and-decisions-presentations/
 - caption: Teams
   chapters:
     - file: teams/index
