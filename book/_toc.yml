@@ -9,9 +9,6 @@ parts:
     - file: schedule
     - file: orgteam
     - file: CoC
-- caption: Preparation and Technical Details
-  chapters:
-    - file: preliminary/git
 - caption: Teams
   chapters:
     - file: teams/index
