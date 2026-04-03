@@ -1,17 +1,23 @@
 # Event Logistics
 
-For questions related to travel, reimbursement, lodging, etc. please reach out to Maddie Farris at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu). Please send all your receipts Maddie before the end of September after the Hack Week has completed. If you have no receipts and just want to claim your meal per diem, reach out to Maddie via email to start the reimbursement process and to discuss further information that I may need.
+For questions related to event logistics please reach out to Maddie Farris at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu).
 
 ## Wireless
 
--   WiFi: University of Washington
--   UW NetID: event0212
--   Password: 64WZ-95CY-34YN
+-   **Olympia Ballroom WiFi**
+     -  TBA
+
+-   **University of Washington WiFi**
+     -  WiFi: University of Washington
+     -  UW NetID: TBA
+     -  Password: TBA
 
 ## Location
 
--   The Hack Week will take place at the University of Washington eScience Institute, which is located on the 6th floor of 3910 15th Ave NE, Seattle, WA 98195.
--   Select events may take place at other locations nearby on campus, which will be noted on a provided map.
+ *  April 24th, 2026
+     -  The Olympia Ballroom, Olympia, Washington
+     -  Address: 116 Leigon Way SE, Olympia, WA 98501
+     -  Parking: Street parking available in area surrounding the venue
 
 ## Travel
 
@@ -25,43 +31,9 @@ For questions related to travel, reimbursement, lodging, etc. please reach out t
 -   Your trips to and from the airport will be reimbursed, please email Maddie Farris at [csde-prgm-coord\@uw.edu](mailto:csde_prgm_coord@uw.edu) with the receipts 
 -   Locations during the event are walking distance and will not need transportation if you are able to walk. If you have accessibility/mobility needs and would like to arrange transportation between spaces, please reach out to Maddie at [csde-prgm-coord\@uw.edu](mailto:csde_prgm_coord@uw.edu).
 
-## Lodging
-
--   The [University Inn](https://www.staypineapple.com/university-inn-seattle-wa) is located at 4140 Roosevelt Way NE, Seattle, WA 98105.
--   You will be able to check-in at 4pm.
--   You have been listed in a hotel block titled “2024 D4 Hack Week” or have had an individual reservation created by us, just let the hotel know your name.
--   It has been noted if your Room & Tax will be paid through UW CSDE or if you are self-funded. Either way, a card will be collected at check-in to cover other incidentals that do not fall under Room & Tax.
--   Card collection at check-in can cause some confusion, but do not worry. If you do end up being charged for Room & Tax, we will be able to fix it with the hotel.
--   If you have any questions or concerns after check-out, please email [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu){.email}.
 
 ## Meals
 
--   Each meal will either be catered by the event or purchased on your own for reimbursement later (known as meal per diem). Meal Per Diem will be offered for meals that are not being catered through the event or provided by the hotel (i.e. continental breakfast).
+-   Breakfast and Lunch will be provided for both events on April 24th and May 22nd. Meal per diem will not be applicable. If you have any quesions about meals, please eamil Maddie at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu).
 -   For catered meals, we will accommodate dietary restrictions that are provided to us in advance of the hack week.
 -   If a meal is provided but you choose to not eat what is provided, you will not be able to receive meal per diem for that meal.
--   Meal per diem will be received after the week is done as per [GSA per diem policy](https://www.gsa.gov/travel/plan-book/per-diem-rates) and [UW Travel Policy](https://finance.uw.edu/travel/)
--   Meal Per Diem in Seattle, Washington is: \$19/Breakfast, \$22/Lunch, \$38/Dinner
--   Reach out to Maddie to be reimbursed for meals per diem at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu){.email}.
--   Thursday evening's dinner will take place at Mamma Melina Ristorante, at 5101 25th Ave NE.
--  See this list of [restaurant recommendations](https://docs.google.com/document/d/1WvLDgHvu4zQCx1muGU_iscdFzeshsrNI5yyUEBHDmrs/edit) for meals on your own.
-
-
--   The table below notes which meals are catered or per diem.
-
-| Day       | Meal      | Catered or per diem                                      |
-|-----------|-----------|----------------------------------------------------------|
-| Monday    | Lunch     | Catered                                                  |
-| Monday    | Dinner    | Meal per diem                                            |
-| Tuesday   | Breakfast | Catered |
-| Tuesday   | Lunch     | Catered                                                  |
-| Tuesday   | Dinner    | Meal per diem                                            |
-| Wednesday | Breakfast | Catered |
-| Wednesday | Lunch     | Meal per diem                                            |
-| Wednesday | Dinner    | Meal per diem                                            |
-| Thursday  | Breakfast | Catered |
-| Thursday  | Lunch     | Catered                                                  |
-| Thursday  | Dinner    | Catered at Mamma Melina Restaurant                       |
-| Friday    | Breakfast | Meal per diem                                          |
-
-
-
