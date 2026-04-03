@@ -8,14 +8,14 @@ For questions related to event logistics please reach out to Maddie Farris at [c
      -  The Olympia Ballroom, Olympia, Washington
      -  Address: 116 Leigon Way SE, Olympia, WA 98501
      -  Parking: Street parking available in area surrounding the venue
- <img src="img/olympia%20ballroom%20google%20maps.jpeg" width="508"/> 
+ <img src="./img/olympia%20ballroom%20google%20maps.jpeg" width="508"/> 
   
 *  **Friday, May 22nd, 2026**
      -  University of Washington Seattle Campus 
      -  Address: 1410 NE Campus Pkwy, Seattle 98195
      -  Parking: Various parking across campus, closest parking to the venue would be the Central Plaza Parking Garage
  
- <img src="img/uw-parking-venue-map.jpeg" width="508"/> 
+ <img src="./img/uw-parking-venue-map.jpeg" width="508"/> 
 
 
   
