@@ -11,8 +11,6 @@ parts:
     - file: CoC
 - caption: Preparation and Technical Details
   chapters:
-    - file: preliminary/index
-    - file: preliminary/checklist
     - file: preliminary/git
 - caption: Teams
   chapters:
