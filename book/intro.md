@@ -11,7 +11,7 @@ On March 10, 2026 the UW’s Center for Studies in Demography and Ecology (CSDE)
 * Agenda: https://d4hackweek.github.io/d4-2026-apr/schedule.html
 `````
 
-```{image} ./img/d42026aprorglogos
+```{image} ./img/d42026aprorglogos.png
 :alt: D4 logos
 :width: 500px
 :align: center
