@@ -14,7 +14,6 @@ For questions related to event logistics please reach out to Maddie Farris at [c
      -  University of Washington Seattle Campus 
      -  Address: 1410 NE Campus Pkwy, Seattle 98195
      -  Parking: Various parking across campus, closest parking to the venue would be the Central Plaza Parking Garage
- 
  <img src="./img/uw-parking-venue-map.jpeg" width="508"/> 
 
 
