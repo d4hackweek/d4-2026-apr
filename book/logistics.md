@@ -41,8 +41,9 @@ For questions related to event logistics please reach out to Maddie Farris at [c
 -   For public transportation:
     -  Please provide full itemized receipt.
 
- -   For parking:
+-   For parking:
     -  Please provide full itemized receipt.
+
 
 Please send these receipts to Maddie at [csde-prgm-coord\@uw.edu](mailto:csde_prgm_coord@uw.edu). If you have accessibility/mobility needs, please reach out to Maddie.
 
