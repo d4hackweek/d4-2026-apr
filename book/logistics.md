@@ -10,6 +10,8 @@ For questions related to event logistics please reach out to Maddie Farris at [c
      -  Parking: Street parking available in area surrounding the venue
        
  <img src="./img/olympia-ballroom-google-maps.jpeg" width="508"/> 
+
+
   
 *  **Friday, May 22nd, 2026**
      -  University of Washington Seattle Campus 
