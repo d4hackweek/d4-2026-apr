@@ -23,7 +23,7 @@ Address: 116 Legion Way SE, Olympia, WA 98501
   *  1:00pm - 2:15pm
      -  What's really working here?
      -  What's unclear?
-     -  What's essential
+     -  What's essential?
   *  2:15pm - 2:30pm
      -  Break
   *  2:30pm - 3:30pm
