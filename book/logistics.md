@@ -34,7 +34,7 @@ For questions related to event logistics please reach out to Maddie Farris at [c
 
 ## Travel
 
--   UW CSDE will provide reimbursement for any mileage driven or public transportation that you had to take in order to get to the event venues. For UW academics, we can only reimburse mileage/public transportation for your trip to Olympia, not for the UW Seattle event. We will also reimburse any parking costs that you incur from these events. 
+-   UW CSDE will provide reimbursement for any mileage driven or public transportation that you had to take in order to get to the event venues. For UW academics, we can only reimburse mileage/public transportation for your trip to Olympia, not for the UW Seattle event. We will also reimburse any parking costs that you incur from these events. Again, for UW academics we can't reimburse parking at the UW Seattle event. 
 -   For mileage reimbursement please provide:
     -  Google map routing from your starting location to your end location.
  
