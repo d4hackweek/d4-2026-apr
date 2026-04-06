@@ -9,27 +9,29 @@ Address: 116 Legion Way SE, Olympia, WA 98501
   *  8:30am - 9:00am
      -  Arrive & Mingle
      -  Light Breakfast served
-  *  9:00am - 10:00am
+  *  9:00am - 9:15am
+     -  Welcome
+  *  9:15am - 10:15am
      -  Our Collective Force
      -  Leveraging the Potential of Research Partnerships
-  *  10:00am - 10:15am
+  *  10:15am - 10:30am
      -  Break
-  *  10:15am - 12:15pm
+  *  10:30am - 12:30pm
      -  Begin with the End in Mind
      -  Digging into the Big Questions
      -  Gathering What You've Got
-  *  12:15pm - 1:00pm
+  *  12:30pm - 1:15pm
      - Lunch  
-  *  1:00pm - 2:15pm
+  *  1:15pm - 2:45pm
      -  What's really working here?
      -  What's unclear?
      -  What's essential?
-  *  2:15pm - 2:30pm
+  *  2:45pm - 3:00pm
      -  Break
-  *  2:30pm - 3:30pm
+  *  3:00pm - 4:00pm
      -  Pursuing the Big Questions
      -  Deciding What's Next
-  *  3:30pm - 4:00pm
+  *  4:00pm - 4:30pm
      -  Reflections and Input for May
    
 ## Friday May 22nd
