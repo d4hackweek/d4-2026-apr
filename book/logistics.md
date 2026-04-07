@@ -11,11 +11,11 @@ For questions related to event logistics please reach out to Maddie Farris at [c
        
  <img src="./img/olympia-ballroom-google-maps.jpeg" width="508"/> 
 
-
+<br>
   
 *  **Friday, May 22nd, 2026**
-     -  University of Washington Seattle Campus 
-     -  Address: 1410 NE Campus Pkwy, Seattle 98195
+     -  Husku Union Building (HUB), Room 332, University of Washington Seattle Campus 
+     -  Address: 4001 E Stevens Way NE, Seattle, WA 98195
      -  Parking: Various parking across campus, closest parking to the venue would be the Central Plaza Parking Garage
        
  <img src="./img/uw-parking-venue-map.jpeg" width="508"/> 
