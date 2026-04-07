@@ -14,7 +14,7 @@ For questions related to event logistics please reach out to Maddie Farris at [c
 <br>
   
 *  **Friday, May 22nd, 2026**
-     -  Husku Union Building (HUB), Room 332, University of Washington Seattle Campus 
+     -  Husky Union Building (HUB), Room 332, University of Washington Seattle Campus 
      -  Address: 4001 E Stevens Way NE, Seattle, WA 98195
      -  Parking: Various parking across campus, closest parking to the venue would be the Central Plaza Parking Garage
        
