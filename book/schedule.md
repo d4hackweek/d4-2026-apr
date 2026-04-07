@@ -35,8 +35,8 @@ Address: 116 Legion Way SE, Olympia, WA 98501
      -  Reflections and Input for May
    
 ## Friday May 22nd
-Location: UW Seattle Campus 
+Location: Husky Union Building (HUB), Room 332, University of Washington Seattle Campus
 
-Address:
+Address: 4001 E Stevens Way NE, Seattle, WA 98195
 
 Schedule TBA
