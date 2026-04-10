@@ -1,4 +1,4 @@
-# Getting Started with GitHub
+# GitHub Guide
 
   1. [Getting your GitHub Account](#getting-your-github-account)
   2. [Downloading GitHub Desktop](#downloading-github-desktop)
