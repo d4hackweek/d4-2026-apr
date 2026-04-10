@@ -1,9 +1,5 @@
 # GitHub Guide
 
-  1. [Getting your GitHub Account](#getting-your-github-account)
-  2. [Downloading GitHub Desktop](#downloading-github-desktop)
-  3. [Cloning the Repository](#cloning-the-repository)
-
 ## Getting your GitHub Account
 
   1. Navigate to [https://github.com/](https://github.com/) and select Sign Up in the top right corner. <br> ![](./img/github1.png)
