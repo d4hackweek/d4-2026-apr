@@ -9,7 +9,7 @@ parts:
     - file: schedule
     - file: orgteam
     - file: CoC
-    - file: setup_repo
+    - file: setuprepo
 - caption: Teams
   chapters:
     - file: teams/index
