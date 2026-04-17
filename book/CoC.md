@@ -1,4 +1,4 @@
-# Participant Conduct
+# Our Guidelines
 
 ## **Our Pledge**
 
