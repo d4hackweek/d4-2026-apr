@@ -7,10 +7,10 @@ Location: The Olympia Ballroom, Olympia, Washington
 Address: 116 Legion Way SE, Olympia, WA 98501
 
   *  8:30am - 9:00am
-     -  Arrive & Mingle
+     -  Welcome & Mingle
      -  Light Breakfast served
-  *  9:00am - 9:15am
-     -  Welcome
+  *  9:00am
+     -  Program Starts 
   *  9:15am - 10:15am
      -  Our Collective Force
      -  Leveraging the Potential of Research Partnerships
