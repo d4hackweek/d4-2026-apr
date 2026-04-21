@@ -14,5 +14,5 @@ Here is our current list of projects for our {{dates}} {{ hackweek }}:
 | [Seattle City Light and UW](04)                        | **Seattle City Light**: Traea Vaillancourt, Alex Porteshawver, and Tarney Sheldon <br> <br> **UW**: Patrick Greiner and June Lukuyu |     
 | [Sound Transit and UW ](05)                       | **Sound Transit**: Juliana Borges, Daniel Thiel, and Rebeca DeBuen <br> <br> **UW** Cynthia Chen and Kyle Crowder | 
 | [Walk about Yakima, Community Peace Center of Central Washington and UW](06)    | **Walk about Yakima**: Sam Decker, Alfredo Orozco, and Carolyn Thruston <br> <br> **UW**: Ali Rowhani-Rahbar |
-| [Washington Attorney General’s Office and UW](07)                               | **Washington Attorney General's Office**: Lauren Vlas <br> <br> **UW**: Avanti Adhia, Alice Ellyson, and Jessica Godwin |
+| [Washington Attorney General’s Office and UW](07)                               | **Washington Attorney General's Office**: Lauren Vlas, Kyra Laughlin, and Katherine Thompson <br> <br> **UW**: Avanti Adhia, Alice Ellyson, and Jessica Godwin |
 | [Washington State Center for Court Research, Administrative Office of the Courts and UW](08)             | **Washington State Center for Court Research**: Patrizia Chirco, Karl Jones, and Frank Thomas <br> <br> **UW**: Karin Martin, and Danieli Evans |
