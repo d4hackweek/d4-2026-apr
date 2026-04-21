@@ -2,6 +2,22 @@
 
 For questions related to event logistics please reach out to Maddie Farris at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu).
 
+## Pre-Event Logistics 
+
+**Project Team Members**:
+ *  Begin to think about the following questions:
+     -  Why? (eg. What is the problem and how will this research address it?)
+     -  How? (eg. What research questions will you ask?)
+     -  Who, When and How Much? (Who’s on the team? What’s your timeline? Your budget?)
+ *  Identify one member of your team to bring a laptop to capture your good work on April 24th (You will work large, away from the screen, for a while - but want to make sure you capture your progress for feedback and next steps.)
+
+**Research Partners**
+ *  Begin to think about the following questions:
+     -  If you haven’t already, reach out to your project team to tell them a bit about yourself, learn about them, and gather anything they’d like to share with you about their project. (A Zoom call would be great - but not essential).
+     -  Consider any research-related resources that may be especially relevant or inspiring for this team. You can send them in advance or bring them on April 24.
+     -  Feel free to bring a laptop or ipad to take notes on April 24th but it’s not essential.
+
+
 ## Location
 
  *  **Friday, April 24th, 2026**
