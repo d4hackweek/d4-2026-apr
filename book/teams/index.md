@@ -9,7 +9,6 @@ Here is our current list of projects for our {{dates}} {{ hackweek }}:
 | Team Name                                    | Project Leads                                                                                     |
 | :------------------------------------------- | :------------------------------------------------------------------------------------------------ |
 | [Build 2 Lead and UW](01)                          | **Build 2 Lead**: Jimmy Brown, Dairyona Thompson, and Najmah Messiah <br> <br>  **UW**: Kristian Jones and LaTonya Trotter |
-| [Community Center for Education Results and UW](02) | **Community Center for Education Results**: Kristin McCowan, Kevin Liao, and Jordan Nishimura <br> <br> **UW**: Dan Goldhaber and David Knight |
 | [Leave and Care Programs, Washington Employment Security Department and UW](03)                               |**Leave and Care Programs**: Rebecca Grady, Selin Karabulut, and Katherine Geist <br> <br> **UW**: Stipica Mudrazija, Melissa Knox, Tracy Mroz, and Jing Li|
 | [Program Evaluation, Research, and Assessment, Washington Employment Security Department and UW](04)                 | **Program Evaluation, Research, and Assessment**: Olga Kondratjeva, Morgen Johansen, and Ying Liu <br> <br> **UW**: Michael Schultz, Rachel Erstad, and Sofia Ayala|
 | [Seattle City Light and UW](05)                        | **Seattle City Light**: Traea Vaillancourt, Alex Porteshawver, and Tarney Sheldon <br> <br> **UW**: Patrick Greiner and June Lukuyu |     
