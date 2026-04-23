@@ -2,9 +2,10 @@
 
 ## Getting your GitHub Account
 
-  1. Click on this icon [https://github.com/](https://github.com/) and select Sign Up in the top right corner. <br> ![](./img/github1.png)
-  2. Set up your account and log in.
-  3. Email [csde-prgm-coord@uw.edu](mailto:csde-prgm-coord@uw.edu) when you’ve gotten to this step and we will add you to your repository.
+  1. Click on this icon [https://github.com/](https://github.com/) and select Sign Up in the top right corner. <br> ![](./img/github1.png). We recommend doing these steps on a laptop. 
+  2. Set up your account and log in. Please remember the username and password that you set-up.
+  3. GitHub will send you an email with a "launch code" for authentification 
+  4. Email [csde-prgm-coord@uw.edu](mailto:csde-prgm-coord@uw.edu) when you’ve gotten to this step and we will add you to your repository.
 
 ## Downloading GitHub Desktop
 
