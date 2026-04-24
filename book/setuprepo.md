@@ -27,7 +27,18 @@
 
 ## Resources
 
-**LOI Templates and Guidance**
+### Using GitHub Desktop
+
+1. Open GitHub Desktop and select File > Clone repository... ![](./img/githubdesk_1.png)
+2. Clone your repository to a location on your computer. ![](./img/githubdesk_2.png)
+3. Once the cloning is done, you should see the name of your repository in the upper left corner of your GitHub Desktop program. ![](./img/githubdesk_3.png)
+4. Navigate to the folder on the computer into which you cloned the repository. ![](./img/githubdesk_4.png)
+5. Open Microsoft Word or a similar program and save the document into your repository folder. ![](./img/githubdesk_5.png)
+6. Navigate back to GitHub Desktop and you will see the new document listed as a change to your repository. Fill in comments describing the document or changes to the document you made & click Commit. ![](./img/githubdesk_6.png)
+7. Finally, you will want to "push" your changes to the repository. ![](./img/githubdesk_7.png)
+8. Other individuals on your team can now navigate to their GitHub Desktop and "pull" or "fetch" your changes. ![](./img/githubdesk_8.png)
+
+### **LOI Templates and Guidance**
   *  [LOI and Proposal Writing Tips | Russell Sage Foundation](https://urldefense.com/v3/__https:/www.russellsage.org/apply/grants/core/loi-proposal__;!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbz--8NerA$)
   *  [Arnold Ventures LOI template](https://urldefense.com/v3/__https:/view.officeapps.live.com/op/view.aspx?src=https*3A*2F*2Fav-prod.atl1.cdn.digitaloceanspaces.com*2Fuploads*2FPDFs*2FAV_LOI_Template.docx&wdOrigin=BROWSELINK__;JSUlJSUl!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbzIOI5Kvg$)
   *  [Institute for Advanced Study LOI Guidance](https://urldefense.com/v3/__https:/www.ias.edu/sites/default/files/media-assets/Guidance*20Doc_LOI.docx.pdf__;JQ!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbxk66m1VQ$)
@@ -35,7 +46,7 @@
   *  [Doris Duke Foundantion LOI Guidance](https://urldefense.com/v3/__https:/www.dorisduke.org/grants/letter-of-inquiry__;!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbwF850QFA$)
   *  [Glenn W. Bailey Foundation Loi Guidance](https://urldefense.com/v3/__https:/www.gwbaileyfoundation.org/loi__;!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbz-oDoFdw$)
 
-**Helpful Tools to Complete your LOI (on GitHub)**
+### **Helpful Tools to Complete your LOI (on GitHub)**
   *  For your team to get clearer on the Why and How of your research project:
      * Concept Map. Explains the proposed or probable answers to the question and anticipates organized skepticism about it; table that lays out the concepts how they are measured and the data sources (with type of requirements for getting those data - accessing admin data, existing free secondary data, original survey or observational data.
   * For your team to unpack the How of your research:
