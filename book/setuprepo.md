@@ -45,7 +45,8 @@
   *  [Sloan Foundation LOI Guidance](https://urldefense.com/v3/__https:/sloan.org/grants/apply*tab-letters-of-inquiry__;Iw!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbzPmZx8ow$)
   *  [Doris Duke Foundantion LOI Guidance](https://urldefense.com/v3/__https:/www.dorisduke.org/grants/letter-of-inquiry__;!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbwF850QFA$)
   *  [Glenn W. Bailey Foundation Loi Guidance](https://urldefense.com/v3/__https:/www.gwbaileyfoundation.org/loi__;!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbz-oDoFdw$)
-
+  *  [New America LOI - EDRN ](img/New%20America%20LOI%20-%20EDRN%20-%20Colburn-Curran-Thomas.pdf)
+    
 ### **Helpful Tools to Complete your LOI (on GitHub)**
   *  For your team to get clearer on the Why and How of your research project:
      * Concept Map. Explains the proposed or probable answers to the question and anticipates organized skepticism about it; table that lays out the concepts how they are measured and the data sources (with type of requirements for getting those data - accessing admin data, existing free secondary data, original survey or observational data.
