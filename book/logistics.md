@@ -41,7 +41,8 @@ For questions related to event logistics please reach out to Maddie Farris at [c
 ## WiFi
 
 -   **Olympia Ballroom WiFi**
-     -  TBA
+     -  WiFi: ELSITIORESTAURANTE 2.4
+     -  Password: canal0144amount
 
 -   **University of Washington WiFi**
      -  WiFi: University of Washington
