@@ -39,4 +39,32 @@ Location: Husky Union Building (HUB), Room 332, University of Washington Seattle
 
 Address: 4001 E Stevens Way NE, Seattle, WA 98195
 
-Schedule TBA
+  *  8:30am - 9:00am
+     -  Welcome & Mingle
+     -  Light Breakfast served
+  *  9:00am - Welcome from UW!
+     -  Your “Personalized” Plan for the Day
+     -  Resources at your Fingertips
+  *  9:15am - 10:30am - PART ONE Jump In
+     -  Insights about your Research Project
+     -  Why? and What?: Finalizing your Research Questions 
+  *  10:30am - 10:45am
+     -  Break
+  *  10:45am - 12:45pm - PART TWO Reflect and Refine
+     - Option 1: Keep Clarifying the Why? and What?
+     - Option 2: Get Input on the Why? and What?
+     - Capture your Best Thinking
+  *  12:45pm - 1:30pm
+     - Lunch  
+  *  1:30pm - 3:00pm - PART 3 Deepen and Finalize
+     -  “Learning groups” on topics of shared interest
+     -  10 min presentations followed by rotating “consults”
+  *  3:00pm - 3:15pm
+     -  Break
+  *  3:15pm - 4:15pm - PART FOUR A Look Ahead
+     -  Through the Eyes of Potential Funders
+     -  Keeping Connected within and across teams
+  *  4:15pm - 4:30pm
+     -  Thanks from UW
+     -  Closing Reflections and Celebration 
+
