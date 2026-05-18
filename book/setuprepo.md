@@ -54,8 +54,8 @@
     
 ### **Helpful Tools to Complete your LOI (on GitHub)**
   *  For your team to get clearer on the Why and How of your research project:
-     * Concept Map. Explains the proposed or probable answers to the question and anticipates organized skepticism about it; table that lays out the concepts how they are measured and the data sources (with type of requirements for getting those data - accessing admin data, existing free secondary data, original survey or observational data.
+     * **Concept Map**. Explains the proposed or probable answers to the question and anticipates organized skepticism about it; table that lays out the concepts how they are measured and the data sources (with type of requirements for getting those data - accessing admin data, existing free secondary data, original survey or observational data.
   * For your team to unpack the How of your research:
-     * Data Collection Plan. Worksheet for measures, data, and analyze
+     * **Data Collection Plan**. Worksheet for measures, data, and analyze
   * For your team to think through the When (flow and timing) of your project:
-     * GANTT Chart. Lays out who does what when - this will also help with scoping the project; Helps with producing an LOI Timeline
+     * **GANTT Chart**. Lays out who does what when - this will also help with scoping the project; Helps with producing an LOI Timeline
