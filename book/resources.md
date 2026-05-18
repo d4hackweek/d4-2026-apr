@@ -20,4 +20,4 @@
   * For your team to unpack the How of your research:
      * **Data Collection Plan**. Worksheet for measures, data, and analyze
   * For your team to think through the When (flow and timing) of your project:
-     * **GANTT Chart**. Lays out who does what when - this will also help with scoping the project; Helps with producing an LOI Timeline
+     * [**GANTT Chart**](img/Simple-Gantt-Chart.xlsx). Lays out who does what when - this will also help with scoping the project; Helps with producing an LOI Timeline
