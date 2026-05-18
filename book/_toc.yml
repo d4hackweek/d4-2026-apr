@@ -10,6 +10,7 @@ parts:
     - file: orgteam
     - file: CoC
     - file: setuprepo
+    - file: resources
 - caption: Teams
   chapters:
     - file: teams/index
