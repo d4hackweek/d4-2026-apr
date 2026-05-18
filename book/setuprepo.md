@@ -1,4 +1,4 @@
-# GitHub Guide, Resources, & LOIs
+# GitHub Guide
 
 ## Getting your GitHub Account
 
