@@ -46,8 +46,8 @@ For questions related to event logistics please reach out to Maddie Farris at [c
 
 -   **University of Washington WiFi**
      -  WiFi: University of Washington
-     -  UW NetID: TBA
-     -  Password: TBA
+     -  UW NetID: event0958
+     -  Password: 26mo:84gj:76gs
 
 ## Travel
 
