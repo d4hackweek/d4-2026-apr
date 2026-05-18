@@ -50,6 +50,7 @@
   *  [New America LOI - EDRN ](img/New%20America%20LOI%20-%20EDRN%20-%20Colburn-Curran-Thomas.pdf)
   *  [LOI to Russell Sage Foundation](img/HillRomich%20RSF%20LOI%20aug2014.pdf)
   *  [Derenoncourt LOI](img/Derenoncourt_LOI_OK.pdf)
+  *  [Your Letter of Intent Template](img/Your%20Letter%20of%20Intent%20Template.pdf)
     
 ### **Helpful Tools to Complete your LOI (on GitHub)**
   *  For your team to get clearer on the Why and How of your research project:
