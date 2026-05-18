@@ -9,7 +9,6 @@
   *  [Glenn W. Bailey Foundation LOI Guidance](https://urldefense.com/v3/__https:/www.gwbaileyfoundation.org/loi__;!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbz-oDoFdw$)
 
 **LOI Examples**
-  *  [New America LOI - EDRN ](img/New%20America%20LOI%20-%20EDRN%20-%20Colburn-Curran-Thomas.pdf)
   *  [LOI to Russell Sage Foundation](img/HillRomich%20RSF%20LOI%20aug2014.pdf)
   *  [Derenoncourt LOI](img/Derenoncourt_LOI_OK.pdf)
   *  [Your Letter of Intent Template](img/Your%20Letter%20of%20Intent%20Template.pdf)
