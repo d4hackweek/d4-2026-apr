@@ -1,4 +1,4 @@
-# GitHub Guide & Resources 
+# GitHub Guide, Resources, & LOIs
 
 ## Getting your GitHub Account
 
@@ -44,7 +44,7 @@
   *  [Institute for Advanced Study LOI Guidance](https://urldefense.com/v3/__https:/www.ias.edu/sites/default/files/media-assets/Guidance*20Doc_LOI.docx.pdf__;JQ!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbxk66m1VQ$)
   *  [Sloan Foundation LOI Guidance](https://urldefense.com/v3/__https:/sloan.org/grants/apply*tab-letters-of-inquiry__;Iw!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbzPmZx8ow$)
   *  [Doris Duke Foundantion LOI Guidance](https://urldefense.com/v3/__https:/www.dorisduke.org/grants/letter-of-inquiry__;!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbwF850QFA$)
-  *  [Glenn W. Bailey Foundation Loi Guidance](https://urldefense.com/v3/__https:/www.gwbaileyfoundation.org/loi__;!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbz-oDoFdw$)
+  *  [Glenn W. Bailey Foundation LOI Guidance](https://urldefense.com/v3/__https:/www.gwbaileyfoundation.org/loi__;!!K-Hz7m0Vt54!iiqh611bPnBirkQDatmVbS4pT6uQ-Ya-Np9BN4B66JAsKMjFQkd_Ei719bpOAMdDJayzzqDKwBN4ftDdZbz-oDoFdw$)
 
 **LOI Examples**
   *  [New America LOI - EDRN ](img/New%20America%20LOI%20-%20EDRN%20-%20Colburn-Curran-Thomas.pdf)
