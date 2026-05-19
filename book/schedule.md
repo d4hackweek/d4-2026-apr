@@ -1,5 +1,53 @@
 # Schedule
 
+## Friday May 22nd
+Location: Husky Union Building (HUB), Room 332, University of Washington Seattle Campus
+
+Address: 4001 E Stevens Way NE, Seattle, WA 98195
+
+  *  8:30am - 9:00am
+     -  Welcome & Mingle
+     -  Light Breakfast served
+  *  9:00am - 9:45am - **Opening (Full Group)**
+     -  Inspiration from Lisa Marshall, Chief of Staff, Social Science Research Council (SSRC)
+     -  The Funding Landscape
+     -  Today:
+        - Personalized Plan
+        - Resources and Guidance 
+  *  9:45am - 10:45am - **Jump In (Teams)**
+     -  Re-ground your Research Project
+     -  Finalize your Research Questions
+     -  Use the resources that serve you
+  *  10:45am - 11:00am
+     -  Break
+  *  11:00am - 12:30pm - **Consult and Synthesize (Full Group/Teams)**
+     - Brief Overview of Learning Topics:
+         - Merging + Using Admin. Data (Bridging Data Sets / “WashPop” + Data Longevity (Jennie) in Room 337
+         - Northwest Federal Statistical Research Data Center (Sofia Ayala) in Room 337
+         - UW Funding, Resources, Opportunities, Systems, and Constraints (Sara) in Allen Library C
+     - Other Options:
+         - Consultations with Heather, Lisa or other UW researchers in Main Room
+         - Solo work in your team in Room 307 available
+     - Begin to capture your thinking in the Presentation Template
+  *  12:30pm - 12:45pm - **Convene (Full Group)**
+     - Appreciation and encouragement from *Andrea Woody, Divsional Dean of Social Sciences, UW College of Arts and Sciences*
+     - Identify your team's after-lunch priorities 
+  *  12:45pm - 1:30pm 
+     -  Lunch
+  *  1:30pm - 3:00pm - **Present and Plan (Full Group/Teams)**
+     -  Another Look at the Funding Landscape with *Sumathi Raghavan, Director of Foundation Relations, UW*
+     -  Rotating Presenations with Input
+         - Why: 2 compelling statements
+         - What: Priority Research Questions
+         - How: High-Level Plans for Research Approach
+  *  3:00pm - 4:00pm - **Pull it Together (Teams)**
+     -  Your Letter of Intent
+     -  Next Steps for Your Team
+  *  4:15pm - 4:30pm - **Close (Full Group)**
+     -  Thanks from UW
+     -  Closing Reflections and Celebration 
+
+
 
 ## Friday April 24th
 Location: The Olympia Ballroom, Olympia, Washington
@@ -33,38 +81,3 @@ Address: 116 Legion Way SE, Olympia, WA 98501
      -  Deciding What's Next
   *  4:00pm - 4:30pm
      -  Reflections and Input for May
-   
-## Friday May 22nd
-Location: Husky Union Building (HUB), Room 332, University of Washington Seattle Campus
-
-Address: 4001 E Stevens Way NE, Seattle, WA 98195
-
-  *  8:30am - 9:00am
-     -  Welcome & Mingle
-     -  Light Breakfast served
-  *  9:00am - Welcome from UW!
-     -  Your “Personalized” Plan for the Day
-     -  Resources at your Fingertips
-  *  9:15am - 10:30am - PART ONE Jump In
-     -  Insights about your Research Project
-     -  Why? and What?: Finalizing your Research Questions 
-  *  10:30am - 10:45am
-     -  Break
-  *  10:45am - 12:45pm - PART TWO Reflect and Refine
-     - Option 1: Keep Clarifying the Why? and What?
-     - Option 2: Get Input on the Why? and What?
-     - Capture your Best Thinking
-  *  12:45pm - 1:30pm
-     - Lunch  
-  *  1:30pm - 3:00pm - PART 3 Deepen and Finalize
-     -  “Learning groups” on topics of shared interest
-     -  10 min presentations followed by rotating “consults”
-  *  3:00pm - 3:15pm
-     -  Break
-  *  3:15pm - 4:15pm - PART FOUR A Look Ahead
-     -  Through the Eyes of Potential Funders
-     -  Keeping Connected within and across teams
-  *  4:15pm - 4:30pm
-     -  Thanks from UW
-     -  Closing Reflections and Celebration 
-
