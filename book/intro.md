@@ -4,6 +4,8 @@ We are excited to welcome you to the UW CSDE Accelerate Policy and Research for 
 
 On March 10, 2026 the UW’s Center for Studies in Demography and Ecology (CSDE) selected 9 proposals among 30 applications from local and state government agencies, or non-profit organizations serving the public.  The 30 applications represented a wide array of practical research ideas that could be pursued in collaboration with UW faculty and staff.  The 9 projects selected include ones proposed from four state-wide agencies, three non-profits, and two local agencies.  The research topics are varied and will include partnerships with over twenty-one UW researchers.  The goal of this effort is to offer academic researcher expertise and time to projects that will contribute to policy or practice that serves the public.
 
+[Download and Read Our Final Report](https://csde.washington.edu/wp-content/uploads/2026/07/APR-Final-Report-–-June-2026.pdf)
+
 
 `````{admonition} Quick links for the event
 :class: seealso
