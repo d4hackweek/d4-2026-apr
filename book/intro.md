@@ -6,6 +6,7 @@ On March 10, 2026 the UW’s Center for Studies in Demography and Ecology (CSDE)
 
 [Download and Read Our Final Report](https://csde.washington.edu/wp-content/uploads/2026/07/APR-Final-Report-–-June-2026.pdf)
 
+[Download and Read our Executive Summary](https://csde.washington.edu/wp-content/uploads/2026/07/Executive-Summary-of-APR-June-2026.docx.pdf)
 
 `````{admonition} Quick links for the event
 :class: seealso
